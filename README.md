@@ -39,7 +39,7 @@ Seja bem-vindo(a) a este projeto onde exploramos de forma prática e explicativa
 Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/execucoes-python.git
+git clone https://github.com/P-HENRIQUE-A/Artigo_Dio.git
 cd execucoes-python
 
 ✅ Conclusão
